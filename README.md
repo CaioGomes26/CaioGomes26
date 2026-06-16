@@ -66,6 +66,5 @@
 
 💡 *"Evoluindo um commit de cada vez."*
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=CaioGomes26.CaioGomes26)
 
 </div>
